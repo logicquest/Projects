@@ -1,0 +1,11 @@
+c:\users\chandrasekar\documents\visual studio 2013\Projects\ModelingBK\ModelingBK\bin\Debug\ModelingBK.exe.config
+c:\users\chandrasekar\documents\visual studio 2013\Projects\ModelingBK\ModelingBK\obj\Debug\ModelingBK.csprojResolveAssemblyReference.cache
+c:\users\chandrasekar\documents\visual studio 2013\Projects\ModelingBK\ModelingBK\obj\Debug\ModelingBK.Form1.resources
+c:\users\chandrasekar\documents\visual studio 2013\Projects\ModelingBK\ModelingBK\obj\Debug\ModelingBK.Properties.Resources.resources
+c:\users\chandrasekar\documents\visual studio 2013\Projects\ModelingBK\ModelingBK\obj\Debug\ModelingBK.csproj.GenerateResource.Cache
+c:\users\chandrasekar\documents\visual studio 2013\Projects\ModelingBK\ModelingBK\bin\Debug\ModelingBK.exe
+c:\users\chandrasekar\documents\visual studio 2013\Projects\ModelingBK\ModelingBK\bin\Debug\ModelingBK.pdb
+c:\users\chandrasekar\documents\visual studio 2013\Projects\ModelingBK\ModelingBK\obj\Debug\ModelingBK.exe
+c:\users\chandrasekar\documents\visual studio 2013\Projects\ModelingBK\ModelingBK\obj\Debug\ModelingBK.pdb
+C:\Users\Chandrasekar\Documents\Visual Studio 2013\Projects\ModelingBK\ModelingBK\obj\Debug\ModelingBK.Calculating_Prior_and_Posterior_Belief.resources
+C:\Users\Chandrasekar\Documents\Visual Studio 2013\Projects\ModelingBK\ModelingBK\obj\Debug\ModelingBK.Gen_Facts.resources

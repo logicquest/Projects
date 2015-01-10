@@ -1,0 +1,22 @@
+C:\Users\Sekhar\AppData\Local\Temporary Projects\Mchurnratio\bin\Debug\Mchurnratio.exe.config
+C:\Users\Sekhar\AppData\Local\Temporary Projects\Mchurnratio\bin\Debug\Mchurnratio.exe
+C:\Users\Sekhar\AppData\Local\Temporary Projects\Mchurnratio\bin\Debug\Mchurnratio.pdb
+C:\Users\Sekhar\AppData\Local\Temporary Projects\Mchurnratio\bin\Debug\Mchurnratio.xml
+C:\Users\Sekhar\AppData\Local\Temporary Projects\Mchurnratio\obj\Debug\Mchurnratio.Form1.resources
+C:\Users\Sekhar\AppData\Local\Temporary Projects\Mchurnratio\obj\Debug\Mchurnratio.Resources.resources
+C:\Users\Sekhar\AppData\Local\Temporary Projects\Mchurnratio\obj\Debug\Mchurnratio.vbproj.GenerateResource.Cache
+C:\Users\Sekhar\AppData\Local\Temporary Projects\Mchurnratio\obj\Debug\Mchurnratio.exe
+C:\Users\Sekhar\AppData\Local\Temporary Projects\Mchurnratio\obj\Debug\Mchurnratio.xml
+C:\Users\Sekhar\AppData\Local\Temporary Projects\Mchurnratio\obj\Debug\Mchurnratio.pdb
+C:\Users\Sekhar\AppData\Local\Temporary Projects\Mchurnratio\obj\Debug\Mchurnratio.Param.resources
+C:\Users\Sekhar\Documents\Visual Studio 2012\Projects\Mchurnratio\Mchurnratio\bin\Debug\Mchurnratio.exe.config
+C:\Users\Sekhar\Documents\Visual Studio 2012\Projects\Mchurnratio\Mchurnratio\obj\Debug\Mchurnratio.exe
+C:\Users\Sekhar\Documents\Visual Studio 2012\Projects\Mchurnratio\Mchurnratio\obj\Debug\Mchurnratio.xml
+C:\Users\Sekhar\Documents\Visual Studio 2012\Projects\Mchurnratio\Mchurnratio\obj\Debug\Mchurnratio.pdb
+C:\Users\Sekhar\Documents\Visual Studio 2012\Projects\Mchurnratio\Mchurnratio\bin\Debug\Mchurnratio.exe
+C:\Users\Sekhar\Documents\Visual Studio 2012\Projects\Mchurnratio\Mchurnratio\bin\Debug\Mchurnratio.pdb
+C:\Users\Sekhar\Documents\Visual Studio 2012\Projects\Mchurnratio\Mchurnratio\bin\Debug\Mchurnratio.xml
+C:\Users\Sekhar\Documents\Visual Studio 2012\Projects\Mchurnratio\Mchurnratio\obj\Debug\Mchurnratio.Form1.resources
+C:\Users\Sekhar\Documents\Visual Studio 2012\Projects\Mchurnratio\Mchurnratio\obj\Debug\Mchurnratio.Resources.resources
+C:\Users\Sekhar\Documents\Visual Studio 2012\Projects\Mchurnratio\Mchurnratio\obj\Debug\Mchurnratio.Param.resources
+C:\Users\Sekhar\Documents\Visual Studio 2012\Projects\Mchurnratio\Mchurnratio\obj\Debug\Mchurnratio.vbproj.GenerateResource.Cache

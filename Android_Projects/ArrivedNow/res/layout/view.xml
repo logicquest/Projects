@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@color/white"
+>
+<LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical">
+       <TextView android:layout_height="wrap_content" 
+        android:layout_width="fill_parent" android:textAppearance="?android:attr/textAppearanceMedium" 
+        android:id="@+id/textView1" android:text="Current Geo Alarm :" 
+        android:textColor="@color/black"  ></TextView>
+    <TextView android:layout_height="wrap_content" android:textColor="@color/black" 
+	    android:layout_width="fill_parent" android:textAppearance="?android:attr/textAppearanceMedium" 
+	    android:id="@+id/textView2" android:text="......" android:layout_marginLeft="5dip"></TextView>
+	<TextView android:layout_height="wrap_content" android:textColor="@color/black" 
+	    android:layout_width="fill_parent" android:textAppearance="?android:attr/textAppearanceMedium" 
+	    android:id="@+id/textView3" android:text="Destination:" ></TextView> 
+	    <TextView android:layout_height="wrap_content" android:textColor="@color/black" 
+	    android:layout_width="fill_parent" android:textAppearance="?android:attr/textAppearanceMedium" 
+	    android:id="@+id/textView4" android:text="........" android:layout_marginLeft="5dip"></TextView> 
+    </LinearLayout>
+
+   </LinearLayout>
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dip"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dip"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/white" android:background="@color/ltgrey" android:hint="No Alarm Set!"/>
+
+    <ToggleButton
+        android:id="@+id/toggleButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ToggleButton" android:onClick="onToggleClicked" android:layout_margin="10dip"/>
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dip"
+        android:src="@drawable/newnote" />
+
+</LinearLayout>
+
+       <TextView android:layout_width="fill_parent"
+android:layout_height="2dip"
+android:background="@color/ltgrey" />
+<TextView
+ android:layout_width="fill_parent" 
+    android:layout_height="fill_parent" 
+    android:gravity="bottom|right"
+    android:typeface="serif"
+    android:textColor="@color/ltgrey"
+ android:textSize="20sp"
+    android:text="Morvo Corp  "  
+    />
+</LinearLayout>

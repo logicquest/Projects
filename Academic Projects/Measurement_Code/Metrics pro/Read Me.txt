@@ -1,0 +1,10 @@
+1. Select Base version as clipboardapp sample 
+2. Select Churn version as clipboardapp sample1
+
+Study paper for to know about absolute measures and relative measures:
+
+m5 in our project is m7 in actual project
+
+The terms used in this project directly imply the measurable ratios in the paper presented.
+
+Open:Mchurnratio/Mchurnratio/bin/Debug/Mchurnratio to find the application.

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+  
+  <EditText 
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:hint="Enter to search location"
+  android:id="@+id/ente"
+  
+  />
+  <Button android:id="@+id/see"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+android:text="Search"
+android:layout_toRightOf="@id/ente"
+android:onClick="seloc"/>
+  
+<com.google.android.maps.MapView android:id="@+id/map"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:apiKey="0TZZeZRdtEUBeR1VlqPWYLvWzQTTnyf52uQKpQA"
+    android:clickable="true"
+    android:layout_below="@id/ente"
+  />
+
+  <ImageView android:id="@+id/drag"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@drawable/marker"
+    android:visibility="gone"
+  />
+  
+  
+  
+
+  <Button
+      android:id="@+id/button1"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignParentBottom="true"
+      android:layout_alignParentRight="true"
+      android:layout_marginBottom="54dp"
+      android:layout_marginRight="27dp"
+      android:text="Set Location" />
+             
+</RelativeLayout>

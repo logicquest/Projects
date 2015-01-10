@@ -1,0 +1,10 @@
+C:\Users\Chandrasekar\Documents\Visual Studio 2013\Projects\ModelingBK\ModelingBK\bin\Release\ModelingBK.exe.config
+C:\Users\Chandrasekar\Documents\Visual Studio 2013\Projects\ModelingBK\ModelingBK\bin\Release\ModelingBK.exe
+C:\Users\Chandrasekar\Documents\Visual Studio 2013\Projects\ModelingBK\ModelingBK\bin\Release\ModelingBK.pdb
+C:\Users\Chandrasekar\Documents\Visual Studio 2013\Projects\ModelingBK\ModelingBK\obj\Release\ModelingBK.Calculating_Prior_and_Posterior_Belief.resources
+C:\Users\Chandrasekar\Documents\Visual Studio 2013\Projects\ModelingBK\ModelingBK\obj\Release\ModelingBK.Form1.resources
+C:\Users\Chandrasekar\Documents\Visual Studio 2013\Projects\ModelingBK\ModelingBK\obj\Release\ModelingBK.Gen_Facts.resources
+C:\Users\Chandrasekar\Documents\Visual Studio 2013\Projects\ModelingBK\ModelingBK\obj\Release\ModelingBK.Properties.Resources.resources
+C:\Users\Chandrasekar\Documents\Visual Studio 2013\Projects\ModelingBK\ModelingBK\obj\Release\ModelingBK.csproj.GenerateResource.Cache
+C:\Users\Chandrasekar\Documents\Visual Studio 2013\Projects\ModelingBK\ModelingBK\obj\Release\ModelingBK.exe
+C:\Users\Chandrasekar\Documents\Visual Studio 2013\Projects\ModelingBK\ModelingBK\obj\Release\ModelingBK.pdb

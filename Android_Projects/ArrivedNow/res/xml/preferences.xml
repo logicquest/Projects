@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+        <PreferenceCategory
+                android:title="Alarm Preferences">
+               
+                
+        <EditTextPreference
+    android:key="trigdist"
+    android:title="Trigger distance"
+    android:summary="Distance before destination to trigger alarm."
+    android:numeric="integer"
+    android:maxLength="5"
+    android:defaultValue="500"
+/>
+                <EditTextPreference
+    android:key="pdist"
+    android:title="Location update:(By Dist.)"
+    android:summary="Current Loc. update for specified distance."
+    android:numeric="integer"
+    android:maxLength="5"
+    android:defaultValue="10"
+/>
+                        <EditTextPreference
+    android:key="ptime"
+    android:title="Location update:(By Time.)"
+    android:summary="Current location update b/w specified time interval."
+    android:numeric="integer"
+    android:maxLength="5"
+    android:defaultValue="500"
+/>
+        
+                <CheckBoxPreference android:key="vibrate" 
+             android:summary="Enable or disable Vibration." 
+             android:title="Vibration:" android:defaultValue="true" />
+
+
+   
+        </PreferenceCategory>
+</PreferenceScreen>

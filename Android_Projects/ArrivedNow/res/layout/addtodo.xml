@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+  
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+   android:orientation="vertical" 
+ >
+ 
+   
+<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_margin="10dip">
+     <EditText
+        android:id="@+id/editText1"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="Add a new To-do" >
+
+        <requestFocus />
+	   </EditText>
+     <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/newtodo" />
+</LinearLayout>
+
+  <TextView
+     android:id="@+id/textView2"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_margin="10dip"
+     android:background="@color/black"
+     android:text="To-do Items:"
+     android:textColor="@color/white"
+     android:textAppearance="?android:attr/textAppearanceLarge"
+      />
+
+   <ListView
+      android:id="@+id/listView1" 
+      android:layout_width="fill_parent"
+      android:layout_height="150dip"
+      android:layout_margin="10dip" 
+      android:textColor="@color/black"
+       android:textAppearance="?android:attr/textAppearanceLarge"
+      android:isScrollContainer="true"     
+      android:background="@drawable/roundedcorners"
+      
+      >
+
+</ListView>
+
+
+
+
+
+   <LinearLayout
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_margin="10dip"
+      android:orientation="horizontal" >
+       
+       
+         <Button
+          android:id="@+id/save"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="0.25"
+          android:text="Save" />
+       
+
+       <Button
+          android:id="@+id/cancel"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="0.25"
+          android:text="Cancel" />
+
+  </LinearLayout>
+  </LinearLayout>
+ 
+
+
+

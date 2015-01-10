@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" android:orientation="vertical">
+  
+   
+    
+  <TextView android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Waiting for location..."
+    android:id="@+id/lblLocationInfo"/>
+  <!-- <1> -->
+       
+    <com.google.android.maps.MapView
+                 android:layout_width="fill_parent"
+                 android:layout_height="fill_parent"
+                 android:apiKey="0TZZeZRdtEUBeR1VlqPWYLvWzQTTnyf52uQKpQA"
+                 android:id="@+id/mapview"
+                 android:layout_y="100dp"
+                     
+               
+                 />
+   <EditText android:layout_height="wrap_content" android:text="type here" android:layout_width="150dp" android:layout_x="162dp" android:layout_y="131dp" android:id="@+id/et">
+     //  <requestFocus></requestFocus>
+   </EditText>
+   <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView2" android:layout_x="191dp" android:layout_y="18dp" android:text="Speak Destination"></TextView>
+   <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="Speak Now" android:layout_x="199dp" android:layout_y="40dp" android:id="@+id/speakbutton" android:onClick="spe"></Button>
+   <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView1" android:text="Enter Destination:" android:layout_x="188dp" android:layout_y="106dp"></TextView>
+   <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView3" android:layout_x="204dp" android:layout_y="358dp" android:text="Speak "></TextView>
+   <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView4" android:text="1.Current Location" android:layout_x="178dp" android:layout_y="392dp"></TextView>
+   <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView5" android:text="2.Emergency" android:layout_x="181dp" android:layout_y="422dp"></TextView>   
+   
+  <ListView android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1" />
+  <Button android:layout_width="wrap_content" android:text="Off" android:id="@+id/off" android:layout_height="wrap_content" android:layout_x="205dp" android:layout_y="281dp" android:onClick="hey"></Button>
+  <Button android:layout_width="wrap_content" android:text="ALARM+TURN" android:id="@+id/at" android:onClick="why" android:layout_height="wrap_content" android:layout_x="168dp" android:layout_y="221dp"></Button>
+  
+       
+       
+</AbsoluteLayout>
+
+
+
