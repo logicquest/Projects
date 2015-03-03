@@ -6,14 +6,14 @@ This project contains my implementation of my thesis Visually Impaired Person's 
 an android application will help a visually impaired person to go through his route. 
 
 Features:
-1. Voice Location:
+Voice Location:
   By pressing a button, the visually impaired person is alerted about his present location via voice.
   
-2. Outdoor Navigation:
+Outdoor Navigation:
   Once, the visually impaired person enters his route information via voice request, he will be assisted with direction 
   information via voice.
   
-3. Emergency Management:
+Emergency Management:
   The visually impaired person can trigger his friend or any person who has registered to help, in terms of an emergency.
   Online monitoring of his location can be watched online using an interactive map feature.
   
